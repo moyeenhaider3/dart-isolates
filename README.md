@@ -4,7 +4,9 @@ Imagine you’re the manager🧑‍💼 of a restauran🍽️t (your Flutter app
 
 But then you remember Isolate😀, your secret kitchen in the bac😮‍💨k. It has its own independent chef🧑‍🍳 who can cook without interrupting the main kitchen’s flow. You send the group’s order to Isolate, where the chef🧑‍🍳 works actively while your star chef👨‍🍳 continues serving other guests. When the feast is ready🥗, Isolate sends it back carefully, and your restaurant works smoothly, everyone happy and well-fed!😊😋
 
-[Link to Example Code](link-to-your-example-code.dart)
+_Don’t Try to Understand the Isolate Code in One-Go. Just Go-Through the Example, and re-read it, once when you finish reading._
+
+[Link to Isolate Code](isolates.dart)
 
 ## What are Isolates?
 
